@@ -29,7 +29,7 @@ The planned tool reads CSV files, examines their columns, and supports charts an
 
 ## 🚀 How to Run (Local)
 ```bash
-git clone https://github.com/<your-username>/InsightPilot.git
-cd InsightPilot
+git clone https://github.com/ShalinVachheta017/InsightPilot-.git
+cd InsightPilot-
 pip install -r requirements.txt
 streamlit run app/main.py
