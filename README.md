@@ -2,20 +2,9 @@
 
 ## Project Summary
 
-### What is this project?
-This is an early-stage idea for a personal data assistant that helps explore CSV files.
+Imagine opening a large spreadsheet and not knowing where to begin. This early-stage project explores an assistant that could help you understand the data by asking simple questions. The challenge is making large files easier to search and explore without needing to write a lot of code.
 
-### Why is it interesting?
-People often have spreadsheets full of data but do not know where to start.
-
-### How does it work?
-The planned app reads a CSV file, examines the columns, and supports questions and charts.
-
-### Real-life example
-You upload a sales CSV and ask what changed over time. The assistant is intended to help explore it.
-
-### What did I learn?
-This project explores how data tools and language models could work together. The README describes an early phase, not a complete product.
+The planned tool reads CSV files, examines their columns, and supports charts and questions about the data. For example, you might upload sales records and ask what changed over time. I am exploring how data tools and AI could work together to make analysis easier. The repository describes an early project, not a completed product.
 
 ---
 
